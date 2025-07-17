@@ -19,8 +19,9 @@ Project consists of creating a Pong game, one of the first arcade games. The gam
 <br/>
 <img src="https://i.imgur.com/9c1GPK8.png" height="80%" width="80%" "/>
 <br/>
-Game over:  <br/>
-<img src="https://i.imgur.com/zr7Yuvr.png" height="80%" width="80%" />
+
+<br/>
+<img src="https://i.imgur.com/AEX25Qn.png" height="80%" width="80%" />
 <br />
 </p>
 
